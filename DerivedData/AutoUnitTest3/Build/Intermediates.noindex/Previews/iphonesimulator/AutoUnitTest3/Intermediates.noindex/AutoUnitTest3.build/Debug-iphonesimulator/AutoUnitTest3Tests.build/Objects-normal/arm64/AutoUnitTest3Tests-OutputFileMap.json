@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Intermediates.noindex/AutoUnitTest3.build/Debug-iphonesimulator/AutoUnitTest3Tests.build/Objects-normal/arm64/AutoUnitTest3Tests-master.dia",
+    "emit-module-dependencies" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Intermediates.noindex/AutoUnitTest3.build/Debug-iphonesimulator/AutoUnitTest3Tests.build/Objects-normal/arm64/AutoUnitTest3Tests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Intermediates.noindex/AutoUnitTest3.build/Debug-iphonesimulator/AutoUnitTest3Tests.build/Objects-normal/arm64/AutoUnitTest3Tests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Intermediates.noindex/AutoUnitTest3.build/Debug-iphonesimulator/AutoUnitTest3Tests.build/Objects-normal/arm64/AutoUnitTest3Tests-master.swiftdeps"
+  },
+  "/Users/blitz/dev/SwiftTest/AutoUnitTest3/AutoUnitTest3Tests/AutoUnitTest3Tests.swift" : {
+    "const-values" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Intermediates.noindex/AutoUnitTest3.build/Debug-iphonesimulator/AutoUnitTest3Tests.build/Objects-normal/arm64/AutoUnitTest3Tests.swiftconstvalues",
+    "dependencies" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Intermediates.noindex/AutoUnitTest3.build/Debug-iphonesimulator/AutoUnitTest3Tests.build/Objects-normal/arm64/AutoUnitTest3Tests.d",
+    "diagnostics" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Intermediates.noindex/AutoUnitTest3.build/Debug-iphonesimulator/AutoUnitTest3Tests.build/Objects-normal/arm64/AutoUnitTest3Tests.dia",
+    "index-unit-output-path" : "/AutoUnitTest3.build/Debug-iphonesimulator/AutoUnitTest3Tests.build/Objects-normal/arm64/AutoUnitTest3Tests.o",
+    "llvm-bc" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Intermediates.noindex/AutoUnitTest3.build/Debug-iphonesimulator/AutoUnitTest3Tests.build/Objects-normal/arm64/AutoUnitTest3Tests.bc",
+    "object" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Intermediates.noindex/AutoUnitTest3.build/Debug-iphonesimulator/AutoUnitTest3Tests.build/Objects-normal/arm64/AutoUnitTest3Tests.o",
+    "swift-dependencies" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Intermediates.noindex/AutoUnitTest3.build/Debug-iphonesimulator/AutoUnitTest3Tests.build/Objects-normal/arm64/AutoUnitTest3Tests.swiftdeps",
+    "swiftmodule" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Intermediates.noindex/AutoUnitTest3.build/Debug-iphonesimulator/AutoUnitTest3Tests.build/Objects-normal/arm64/AutoUnitTest3Tests~partial.swiftmodule"
+  }
+}

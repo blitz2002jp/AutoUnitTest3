@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'AutoUnitTest3Tests' in project 'AutoUnitTest3'
+➜ Explicit dependency on target 'AutoUnitTest3' in project 'AutoUnitTest3'
+Target 'AutoUnitTest3UITests' in project 'AutoUnitTest3'
+➜ Explicit dependency on target 'AutoUnitTest3' in project 'AutoUnitTest3'
+Target 'AutoUnitTest3' in project 'AutoUnitTest3' (no dependencies)

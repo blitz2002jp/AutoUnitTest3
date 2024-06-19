@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Index.noindex/Build/Intermediates.noindex/AutoUnitTest3.build/Debug-maccatalyst/AutoUnitTest3UITests.build/Objects-normal/arm64/AutoUnitTest3UITests-master.d",
+    "diagnostics" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Index.noindex/Build/Intermediates.noindex/AutoUnitTest3.build/Debug-maccatalyst/AutoUnitTest3UITests.build/Objects-normal/arm64/AutoUnitTest3UITests-master.dia",
+    "emit-module-dependencies" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Index.noindex/Build/Intermediates.noindex/AutoUnitTest3.build/Debug-maccatalyst/AutoUnitTest3UITests.build/Objects-normal/arm64/AutoUnitTest3UITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Index.noindex/Build/Intermediates.noindex/AutoUnitTest3.build/Debug-maccatalyst/AutoUnitTest3UITests.build/Objects-normal/arm64/AutoUnitTest3UITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Index.noindex/Build/Intermediates.noindex/AutoUnitTest3.build/Debug-maccatalyst/AutoUnitTest3UITests.build/Objects-normal/arm64/AutoUnitTest3UITests-master.swiftdeps"
+  },
+  "/Users/blitz/dev/SwiftTest/AutoUnitTest3/AutoUnitTest3UITests/AutoUnitTest3UITests.swift" : {
+
+  },
+  "/Users/blitz/dev/SwiftTest/AutoUnitTest3/AutoUnitTest3UITests/AutoUnitTest3UITestsLaunchTests.swift" : {
+
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "05d26fb2cbfbfa29f43c100fee84df3fb57ab7ffcea2b88f61dc7e0a1704bc17",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Products",
+          "derivedDataPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/ProfileData",
+              "DSTROOT" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Intermediates.noindex",
+              "SYMROOT" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "34FA7ABF-6B88-4EB7-8085-41AE2C1C74DC",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "05d26fb2cbfbfa29f43c100fee84df3f2d126003a201114c728682c035143013",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Products",
+          "derivedDataPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/ProfileData",
+              "DSTROOT" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Intermediates.noindex",
+              "SYMROOT" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "34FA7ABF-6B88-4EB7-8085-41AE2C1C74DC",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "05d26fb2cbfbfa29f43c100fee84df3f2515bb8c0bbf4d742b65a270a67aa3e6",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Products",
+          "derivedDataPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/ProfileData",
+              "DSTROOT" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Intermediates.noindex",
+              "SYMROOT" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/Previews/iphonesimulator/AutoUnitTest3/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "34FA7ABF-6B88-4EB7-8085-41AE2C1C74DC",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/AutoUnitTest3.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Products",
+      "derivedDataPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.5",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/blitz/dev/SwiftTest/AutoUnitTest3/DerivedData/AutoUnitTest3/Build/ProfileData",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "34FA7ABF-6B88-4EB7-8085-41AE2C1C74DC",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
